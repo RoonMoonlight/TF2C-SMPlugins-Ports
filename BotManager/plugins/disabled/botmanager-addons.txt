@@ -1,0 +1,5 @@
+If you wish to use addons for botmanager, simply move out any of botmanager files from disabled folder.
+
+Available addons to use:
+botmanager-randomdifficulty: Sets random difficulty for each bots
+botmanager-names: Allows you to use custom bot names 
